@@ -1,0 +1,1 @@
+Compile with 'gfortran RKHS.f90 N3-PES.f90 xxx.f90', where 'xxx.f90' is the user-defined script for manipulating the PES.
