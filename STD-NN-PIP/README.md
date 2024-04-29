@@ -1,5 +1,7 @@
 Contains the dataset, scripts for pre-processing the dataset, training and evaluation of the STD-NN model on the PIP-PES [[1]](#1).
 
+First, create a folder named "DataAE" here and unzip everything inside "DataAE.zip" into it.
+
 ## References
 <a id="1">[1]</a> 
 Varga, Zoltan and Truhlar, Donald G. (2021). 
