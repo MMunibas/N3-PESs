@@ -1,2 +1,2 @@
-A short movie for the reaction trajectory starting from $`v=1`$, $j=2$, $E_trans=4.0$ eV. 
-The movie demonstrates the N$_3$ in its local minimum energy structure during an atom exchange reaction.
+A short movie for the reaction trajectory starting from $`v=1`$, $j=2$, $E_{\rm trans}=4.0$ eV. 
+The movie demonstrates the N$`_3`$ in its local minimum energy structure during an atom exchange reaction.
